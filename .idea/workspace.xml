@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a98d576-31e5-4e03-b48b-2a967676e490" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/mateu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cursoNelio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/logicaProgramacao/estruturaCondicional/aulas/IfeElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/logicaProgramacao/estruturaCondicional/aulas/SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/logicaProgramacao/estruturaCondicional/exercicios/Exercicio01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/logicaProgramacao/estruturaCondicional/exercicios/Exercicio02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/logicaProgramacao/estruturaRepetitiva/Debug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/logicaProgramacao/estruturaRepetitiva/For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/logicaProgramacao/estruturaRepetitiva/While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/logicaProgramacao/estruturaSequencial/aulas/AulaEntradaDados1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/logicaProgramacao/estruturaSequencial/aulas/AulaEntradaDados2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/logicaProgramacao/estruturaSequencial/aulas/AulaSaidaDados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/logicaProgramacao/estruturaSequencial/aulas/MathFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/logicaProgramacao/estruturaSequencial/exercicios/Exercicio01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/logicaProgramacao/estruturaSequencial/exercicios/Exercicio02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/logicaProgramacao/estruturaSequencial/exercicios/Exercicio03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/logicaProgramacao/estruturaSequencial/exercicios/Exercicio04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/logicaProgramacao/estruturaSequencial/exercicios/Exercicio05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/logicaProgramacao/estruturaSequencial/exercicios/Exercicio06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/logicaProgramacao/estruturaSequencial/exercicios/ExercicioSaidaDados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/poo/encapsulamento/getSet/aplication/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/poo/encapsulamento/getSet/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/poo/estoqueApp/aplication/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/poo/estoqueApp/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/poo/exercicios/contaBancaria/aplication/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/poo/exercicios/contaBancaria/entities/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/poo/exercicios/ex01/aplication/program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/poo/exercicios/ex01/entities/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/poo/exercicios/ex02/aplication/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/poo/exercicios/ex02/entities/Employes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/poo/exercicios/ex03/aplication/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/poo/exercicios/ex03/entities/Boletim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/poo/membrosEstaticos/aula/ver01/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/poo/membrosEstaticos/aula/ver02/aplication/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/poo/membrosEstaticos/aula/ver02/utils/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/poo/membrosEstaticos/aula/ver03/aplication/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/poo/membrosEstaticos/aula/ver03/utils/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/poo/membrosEstaticos/exercicio/ex01/aplication/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/poo/membrosEstaticos/exercicio/ex01/utils/CurrencyConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/poo/triangleAplication/aplication/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso/poo/triangleAplication/entities/Triangle.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2f0Bq9o7EjnblDwwefZOsHzQ2FA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AulaEntradaDados1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AulaEntradaDados2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AulaSaidaDados.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Debug.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Exercicio01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExercicioSaidaDados.executor&quot;: &quot;Run&quot;,
+    &quot;Application.For.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfeElse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MathFunc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwitchCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.While.executor&quot;: &quot;Run&quot;,
+    &quot;Application.program.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;promo.javascript&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="curso.poo.encapsulamento.getSet.aplication" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\mateu\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a98d576-31e5-4e03-b48b-2a967676e490" name="Changes" comment="" />
+      <created>1712928302876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712928302876</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/curso/logicaProgramacao/estruturaRepetitiva/Debug.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/curso/poo/exercicios/ex02/aplication/Program.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
